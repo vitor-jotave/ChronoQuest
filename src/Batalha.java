@@ -99,7 +99,6 @@ public class Batalha {
         System.out.println("2. Usar Habilidade");
         System.out.println("3. Defender");
         System.out.println("4. Curar - " + personagem.getPoteDeVidaUsos() + "/5 usos");
-        System.out.println("5. Fugir (não implementado)");
         System.out.println("\n");
 
         int escolha = scanner.nextInt();
